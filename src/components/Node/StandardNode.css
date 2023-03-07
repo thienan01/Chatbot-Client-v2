@@ -1,0 +1,13 @@
+.node-container {
+  width: 300px;
+  height: fit-content;
+  background-color: gainsboro;
+  padding: 10px;
+}
+.input-field {
+  width: -webkit-fill-available;
+}
+.input-field .MuiOutlinedInput-root {
+  border-radius: 15px;
+  border: 1px red;
+}
